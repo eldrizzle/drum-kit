@@ -1,12 +1,7 @@
 
 
 
-// const a = new Audio('sounds/tom-1.mp3');
-// const s = new Audio('sounds/tom-2.mp3');
-// const d = new Audio('sounds/tom-3.mp3');
-// const j = new Audio('sounds/tom-4.mp3');
-// const k = new Audio('sounds/kick-bass.mp3');
-// const l = new Audio('sounds/snare.mp3');
+
 
 
 
